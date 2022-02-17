@@ -1,2 +1,2 @@
 Obstacle test
-Obstaclelist testList3
+Obstaclelist testList2
