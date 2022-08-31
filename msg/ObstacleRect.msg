@@ -1,2 +1,2 @@
 std_msgs/Float64 width
-std_msgs/Float64 length
+std_msgs/Float64 lengt
