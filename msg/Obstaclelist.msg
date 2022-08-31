@@ -1,2 +1,2 @@
-std_msgs/Header heade
-Obstacle[] obstacle
+std_msgs/Header header
+Obstacle[] obstacles
