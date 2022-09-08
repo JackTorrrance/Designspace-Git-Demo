@@ -1,1 +1,1 @@
-Obstaclelist list
+Obstaclelist.msg list
