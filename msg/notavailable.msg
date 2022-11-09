@@ -1,1 +1,1 @@
-theType type
+Type type
